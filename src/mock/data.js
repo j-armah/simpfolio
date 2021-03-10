@@ -11,17 +11,17 @@ export const headData = {
 export const heroData = {
   title: '',
   name: 'Jeremy',
-  subtitle: '',
+  subtitle: 'Full Stack Software Engineer',
   cta: '',
 };
 
 // ABOUT DATA
 export const aboutData = {
   img: 'profile.jpg',
-  paragraphOne: '',
-  paragraphTwo: '',
-  paragraphThree: '',
-  resume: 'https://www.resumemaker.online/es.php', // if no resume, the button will not show up
+  paragraphOne: 'Fullstack software engineer with a passion for technical problem solving. My backgorund and experience in economics and management gives me a knack for finding solutions by analyzing problems and breaking them down into smaller pieces to logically find the best solutions. Along with my technical background my personal hobbies also bring a degree of creativity in finding solutions, allowing me to both think in and outside the box when discovering solutions. ',
+  paragraphThree: 'Skills: React, Javascript, Ruby, Rails, Postgres, Python',
+  paragraphTwo: 'I love problem solving, the bigger and harder the problem the better. The satisfaction from discovering an optimal solution to a problem is one of the best feelings.  ',
+  resume: '', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
@@ -59,7 +59,7 @@ export const projectsData = [
 export const contactData = {
   cta: '',
   btn: '',
-  email: '',
+  email: 'jarmah241@gmail.com',
 };
 
 // FOOTER DATA
@@ -78,12 +78,12 @@ export const footerData = {
     {
       id: nanoid(),
       name: 'linkedin',
-      url: '',
+      url: 'https://www.linkedin.com/in/jeremy-armah/',
     },
     {
       id: nanoid(),
       name: 'github',
-      url: '',
+      url: 'https://github.com/j-armah/',
     },
   ],
 };
