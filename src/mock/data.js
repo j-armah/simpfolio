@@ -18,7 +18,7 @@ export const heroData = {
 // ABOUT DATA
 export const aboutData = {
   img: 'profile.jpg',
-  paragraphOne: 'Fullstack software engineer with a passion for technical problem solving. My backgorund and experience in economics and management gives me a knack for finding solutions by analyzing problems and breaking them down into smaller pieces to logically find the best solutions. Along with my technical background my personal hobbies also bring a degree of creativity in finding solutions, allowing me to both think in and outside the box when discovering solutions. ',
+  paragraphOne: 'Fullstack software engineer with a passion for technical problem solving. My background and experience in economics and management gives me a knack for finding solutions by analyzing problems and breaking them down into smaller pieces to logically find the best solutions. Along with my technical background my personal hobbies also bring a degree of creativity in finding solutions, allowing me to both think in and outside the box when discovering solutions. ',
   paragraphThree: 'Skills: React, Javascript, Ruby, Rails, Postgres, Python',
   paragraphTwo: 'I love problem solving, the bigger and harder the problem the better. The satisfaction from discovering an optimal solution to a problem is one of the best feelings.  ',
   resume: '', // if no resume, the button will not show up
