@@ -11,7 +11,7 @@ export const headData = {
 export const heroData = {
   title: '',
   name: 'Jeremy',
-  subtitle: 'Full Stack Software Engineer',
+  subtitle: ' a Full Stack Software Engineer',
   cta: '',
 };
 
@@ -30,8 +30,8 @@ export const projectsData = [
     id: nanoid(),
     img: 'lfg.png',
     title: 'LFG',
-    info: '',
-    info2: '',
+    info: 'LFG or Looking for Game is a React app that allows users to connect and find multiplayer games to play together',
+    info2: 'React, Rails, Material-UI',
     url: 'https://lfg-beta.netlify.app/',
     repo: 'https://github.com/j-armah/react-lfg', // if no repo, the button will not show up
   },
@@ -39,8 +39,8 @@ export const projectsData = [
     id: nanoid(),
     img: 'gamesrx.png',
     title: 'GamesRx',
-    info: '',
-    info2: '',
+    info: 'GamesRx is a React app that allows users to search and review games',
+    info2: 'React, Rails',
     url: 'https://gamesrx.netlify.app/',
     repo: 'https://github.com/j-armah/react-videogame-reviewer', // if no repo, the button will not show up
   },
@@ -48,8 +48,8 @@ export const projectsData = [
     id: nanoid(),
     img: 'flixfix.png',
     title: 'FlixFix',
-    info: '',
-    info2: '',
+    info: 'An IMDB Lite type app that allows users to explore and review movies',
+    info2: 'JavaScript, Rails',
     url: 'https://flixfix.netlify.app/',
     repo: 'https://github.com/j-armah/movielist-js-frontend', // if no repo, the button will not show up
   },
